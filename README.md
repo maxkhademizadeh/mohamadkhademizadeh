@@ -21,6 +21,89 @@
 
 </div>
 
+# 🛠 **Skills**
+
+---
+
+## 🤖 AI & Computer Vision
+<p align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/YOLOv8-111111?logo=ultralytics&logoColor=white">
+<img src="https://img.shields.io/badge/Computer%20Vision-2E8B57?logo=googlephotos&logoColor=white">
+</p>
+
+---
+
+## 🧠 Machine Learning & Data Science
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white">
+</p>
+
+---
+
+## 🤖 Robotics & Automation
+<p align="left">
+<img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros">
+<img src="https://img.shields.io/badge/Gazebo-FF6600?logo=gazebo&logoColor=white">
+<img src="https://img.shields.io/badge/SLAM-0A66C2?logo=mapbox&logoColor=white">
+<img src="https://img.shields.io/badge/Control%20Systems-4B0082?logo=apache&logoColor=white">
+</p>
+
+---
+
+## ⚙️ MLOps & Backend Engineering
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/DVC-13ADC7?logo=dataversioncontrol&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-000000?logo=fastapi&logoColor=white">
+</p>
+
+---
+
+## 🧩 Embedded Systems & IoT
+<p align="left">
+<img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/FreeRTOS-0091BD?logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/PLC%20Programming-FF6F00?logo=siemens&logoColor=white">
+</p>
+
+---
+
+## 🗄️ Data Engineering & Databases
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white">
+</p>
+
+---
+
+## 🛠 Programming Languages
+<p align="left">
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Matlab-0076A8?logo=Mathworks&logoColor=white">
+</p>
+
+---
+
+## ☁️ DevOps & Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+</p>
 ---
 
 ## 👋 **About Me**
