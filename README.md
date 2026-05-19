@@ -9,15 +9,6 @@
 [![Google Scholar](https://img.shields.io/badge/Scholar-Google-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cCgWrboAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Khademizadeh)
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch"> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
 
 </div>
 
