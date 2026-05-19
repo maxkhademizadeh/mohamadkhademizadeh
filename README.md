@@ -4,7 +4,7 @@
 # 🤖 **Max Khademizadeh**  
 ### **Computer & Electronics Engineer • Embedded Systems • Computer Vision • Machine learning**
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
+[![GitHub](https://img.shields.io/badge/GitHub-maxkhademizadeh-black?logo=github)](https://github.com/maxkhademizadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Google-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cCgWrboAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Khademizadeh)
