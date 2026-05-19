@@ -1,7 +1,7 @@
 <!-- Centered Intro -->
 <div align="center">
 
-# 🤖 **Mohammad Khademizadeh**  
+# 🤖 **Max Khademizadeh**  
 ### **Computer & Electronics Engineer • Embedded Systems • Computer Vision • Machine learning**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
